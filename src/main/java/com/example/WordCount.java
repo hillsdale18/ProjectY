@@ -49,6 +49,10 @@ public class WordCount {
   }
 
   public static void main(String[] args) throws Exception {
+     /*
+      * 
+      * Test commit #1231212
+      */
     Configuration conf = new Configuration();
     String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
     if (otherArgs.length != 2) {
