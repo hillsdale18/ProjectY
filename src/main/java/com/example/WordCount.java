@@ -58,10 +58,6 @@ public class WordCount {
       * New Commit v1.1 #1
       * 
       * New Commit v1.1 #2
-      * 
-      * New Commit v2.0 #3
-      * 
-      * New Commit v2.0 #5
       */
     Configuration conf = new Configuration();
     String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
