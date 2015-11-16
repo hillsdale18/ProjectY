@@ -72,4 +72,7 @@ public class WordCount {
     FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
     System.exit(job.waitForCompletion(true) ? 0 : 1);
   }
+  /*
+   * New commit
+   */
 }
