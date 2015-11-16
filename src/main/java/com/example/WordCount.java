@@ -73,3 +73,8 @@ public class WordCount {
     System.exit(job.waitForCompletion(true) ? 0 : 1);
   }
 }
+
+/*
+ * 
+ * New Addition
+ */
